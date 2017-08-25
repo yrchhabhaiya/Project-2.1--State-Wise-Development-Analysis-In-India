@@ -1,0 +1,5 @@
+sqoop export --connect jdbc:mysql://localhost/db1 \
+--username 'root' -P --table 'statewiseBPL80' \
+--export-dir '/user/acadgild/project/StateWiseDevelopment/ProblemStatement2/' \
+--input-fields-terminated-by '\t' \
+-m 1
