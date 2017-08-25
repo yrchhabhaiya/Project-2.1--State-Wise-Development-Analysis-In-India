@@ -1,0 +1,10 @@
+list
+create 'statewiseBPLacheived','CF'
+describe 'statewiseBPLacheived'
+scan 'statewiseBPLacheived'
+
+list
+create 'statewiseBPL80','CF'
+describe 'statewiseBPL80'
+scan 'statewiseBPL80'
+count 'statewiseBPL80'
