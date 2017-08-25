@@ -3,6 +3,7 @@ Project 2.1- State-Wise Development Analysis In India
 
 ------------------------------------------------------------------------------------------------------------------
 Problem statement
+GO THROUGH PDFs FOR PROJECT EVALUATION. REST OF THE FILES ARE SCRIPTS/CONFIGS/JAR(JAVA)/SETUP.
 
 ------------------------------------------------------------------------------------------------------------------
 
