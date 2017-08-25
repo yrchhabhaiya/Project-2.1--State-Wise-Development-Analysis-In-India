@@ -1,0 +1,31 @@
+use db1;
+show tables;
+create table statewiseBPLacheived
+(
+state varchar(30),
+dist varchar(30),
+po_bpl int,
+pp_bpl int
+);
+describe statewiseBPLacheived;
+select * from statewiseBPLacheived;
+
+use db1;
+show tables;
+create table statewiseBPL80
+(
+state varchar(30),
+dist varchar(30),
+po_bpl int,
+pp_bpl int
+);
+describe statewiseBPL80;
+select * from statewiseBPL80;
+
+grant all on *.* to 'root'@'localhost' with grant option;
+
+flush privileges;
+
+commit;
+
+exit;
